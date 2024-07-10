@@ -1,0 +1,1 @@
+More elaboration about the MERN stack.
